@@ -1,1 +1,2 @@
-Added Text in File1
+Changed it to something else
+Change made to check merge conflicts
