@@ -1,2 +1,3 @@
 Changed it to something else
 Change made to check merge conflicts, now I am  making changes to the branch to check how it works
+I've added one more line to check how  --no-commit  works 
